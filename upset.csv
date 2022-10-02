@@ -1,6 +1,6 @@
-Name, Software;Hardware;Requirements;Standards;Physics;Program language;User input;Data
-S;1;1;1;1;1;1;1;1
-H;0;1;1;1;0;0;0;1
+Name;Software;Hardware;Requirements;Standards;Physics;Program language;User input;Data
+Software;1;1;1;1;1;1;1;1
+Hardware;0;1;1;1;0;0;0;1
 N;0;0;0;0;0;0;0;0
 S;1;1;1;1;0;1;1;1
 P;0;0;0;0;0;0;0;0
