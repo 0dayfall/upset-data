@@ -1,9 +1,9 @@
-Software;Hardware;Non-functional requirements;Standards;Physics;Program language;User input;Data
-Software;1;1;1;1;1;1;1;1
-Hardware;0;1;1;1;0;0;0;1
-Non-functional requirements;0;0;0;0;0;0;0;0
-Standards;1;1;1;1;0;1;1;1
-Physics;0;0;0;0;0;0;0;0
-Program language;1;1;1;1;0;1;0;0
-User input;1;1;1;1;0;1;1;1
-Data;1;1;1;1;0;1;1;1
+Name, Software;Hardware;Requirements;Standards;Physics;Program language;User input;Data
+S;1;1;1;1;1;1;1;1
+H;0;1;1;1;0;0;0;1
+N;0;0;0;0;0;0;0;0
+S;1;1;1;1;0;1;1;1
+P;0;0;0;0;0;0;0;0
+PL;1;1;1;1;0;1;0;0
+U;1;1;1;1;0;1;1;1
+D;1;1;1;1;0;1;1;1
