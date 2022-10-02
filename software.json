@@ -1,0 +1,14 @@
+{
+	"file": "https://raw.githubusercontent.com/0dayfall/upset-data/software.csv",
+	"name": "Boundaries of Software",
+	"header": 0,
+	"separator": ";",
+	"skip": 0,
+	"meta": [
+		{ "type": "id", "index": 0, "name": "label" },
+		{ "type": "integer", "index": 20, "name": "Affects" }
+	],
+	"sets": [
+		{ "format": "binary", "start": 2, "end": 8 }
+	]
+}
