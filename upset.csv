@@ -4,6 +4,6 @@ Hardware;0;1;1;1;0;0;0;1
 Non-functional requirements;0;0;0;0;0;0;0;0
 Standards;1;1;1;1;0;1;1;1
 Physics;0;0;0;0;0;0;0;0
-Program language;1;1;1;1;0;1;1
-User input;1;1;1;1;1;0;1;1
+Program language;1;1;1;1;0;1;0;0
+User input;1;1;1;1;0;1;1;1
 Data;1;1;1;1;0;1;1;1
