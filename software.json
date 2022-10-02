@@ -1,5 +1,5 @@
 {
-	"file": "https://raw.githubusercontent.com/0dayfall/upset-data/software.csv",
+	"file": "https://raw.githubusercontent.com/0dayfall/upset-data/upset.csv",
 	"name": "Boundaries of Software",
 	"header": 0,
 	"separator": ";",
